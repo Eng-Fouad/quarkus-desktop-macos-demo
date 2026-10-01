@@ -1,0 +1,3 @@
+# Windows scripts need CRLF line endings, Unix scripts LF
+*.cmd text eol=crlf
+mvnw text eol=lf
